@@ -1,0 +1,13 @@
+name: SciML
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - python=3.10
+  - numpy
+  - jupyter
+  - matplotlib
+  - pandas
+  - pytorch
+  - torchvision
+  - torchaudio
